@@ -54,6 +54,8 @@
 > 128\. Lapse or cancellation of Grant of Aid under the Legal Aid and Advice Act 1995 and the Legal Aid and Advice Regulations
 >
 > 129\. Request for waiver or deferment of Court fees
+>
+> 129A. Applications for PACC permission and PACC applications
 
 ### 116. Application of this Part <a href="#id-116-application-of-this-part" id="id-116-application-of-this-part"></a>
 
@@ -514,3 +516,11 @@ _**Corporate logos**_
 ### 129. Request for waiver or deferment of Court fees <a href="#id-129-request-for-waiver-or-deferment-of-court-fees" id="id-129-request-for-waiver-or-deferment-of-court-fees"></a>
 
 For the purposes of proceedings referred to in Parts 13 and 14 of these Practice Directions, a request for the waiver or deferment of the whole or any part of any appeal Court fees under Order 25, Rule 3(1) of the Rules of Court 2021 must be supported by an affidavit in Form B28 of Appendix B of these Practice Directions. The affidavit in Form B28 must verify Form B29 of Appendix B of these Practice Directions.
+
+### 129A. Applications for PACC permission and PACC applications
+
+(1) Under section 60G(4) of the Supreme Court of Judicature Act 1969 read with Order 24A, Rule 2(2) and (4) of the Rules of Court 2021, the applicant in an application for PACC permission (as defined in section 60F of the Supreme Court of Judicature Act 1969) (referred to in this paragraph as the “applicant”) must file an affidavit in support of the application at the same time as the filing of the application. This affidavit is to be made by the applicant’s counsel (if the applicant is represented by counsel when the affidavit is filed) or by the applicant (if the applicant is not represented by counsel when the affidavit is filed). Where the applicant is represented by one or more counsel, a separate affidavit may be made by each counsel as the deponent or a joint affidavit may be made by all of the counsel as deponents.
+
+(2) Every affidavit mentioned in sub-paragraph (1) must attach as an exhibit an information sheet in Form B29A of Appendix B of these Practice Directions. The information sheet must be completed and signed by the person who makes the affidavit.
+
+(3) Parties are  to refer to the prevailing guidance note(s) found on the Singapore Courts website at [https://www.judiciary.gov.sg/news-and-resources/court-guides](https://www.judiciary.gov.sg/news-and-resources/court-guides) for further information on how filings relating to applications for PACC permission and PACC applications are to be made on eLitigation.

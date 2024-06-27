@@ -1,5 +1,5 @@
 ---
-description: 'LAST UPDATED: 01 FEBRUARY 2024'
+description: 'LAST UPDATED: 28 JUNE 2024'
 ---
 
 # Supreme Court Practice Directions 2021
