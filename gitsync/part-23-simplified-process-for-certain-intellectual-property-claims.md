@@ -1,10 +1,8 @@
 # Part 23: Simplified Process for certain Intellectual Property Claims
 
-> 169\. Application
->
-> 170\. Proceedings under the Simplified Process
->
-> 171\. Forms
+> 169. &#x20; Application
+> 170. &#x20; Proceedings under the Simplified Process
+> 171. &#x20;Forms
 
 ### 169. Application <a href="#id-169-application" id="id-169-application"></a>
 

@@ -10,7 +10,7 @@
 
 ## Appendix C: Registrar, Deputy Registrar, Senior Assistant Registrars, Divisional Registrars and Deputy Divisional Registrars
 
-[Registrar, Deputy Registrar, Senior Assistant Registrars, Divisional Registrars and Deputy Divisional Registrars](https://github.com/opendocsg/opendoc-supreme-court-practice-directions-2021/raw/staging/downloads/Appendix\_C/SUPCT\_new%20PDs%20\(Appendix%20C\).pdf)
+[Registrar, Deputy Registrar, Senior Assistant Registrars, Divisional Registrars and Deputy Divisional Registrars](https://github.com/opendocsg/opendoc-supreme-court-practice-directions-2021/raw/master/downloads/Appendix\_C/PD%202021%20Appendix%20C.pdf)
 
 ## Appendix CA: Waiting Times
 

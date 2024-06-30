@@ -24,4 +24,5 @@
 * [Part 21: Reference to Actuarial Tables in Personal Injury and Death Claims](part-21-reference-to-actuarial-tables-in-personal-injury-and-death-claims.md)
 * [Part 22: Other Matters Specific to Criminal Proceedings](part-22-other-matters-specific-to-criminal-proceedings.md)
 * [Part 23: Simplified Process for certain Intellectual Property Claims](part-23-simplified-process-for-certain-intellectual-property-claims.md)
+* [Part 24: Express Track for Actions in the General Division](part-24-express-track-for-actions-in-the-general-division.md)
 * [Appendices](appendices.md)
