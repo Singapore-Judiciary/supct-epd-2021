@@ -11,6 +11,8 @@
 > 176\. Case management for actions placed on the Express Track
 >
 > 177\. Affidavits of evidence-in-chief
+>
+> 178\. Restriction on right of appeal
 
 ### 172. Application
 
@@ -22,7 +24,7 @@ This Part provides for the placing of an action in the General Division on the E
 
 (2)   The Request may be filed at any time no later than 2 months after the filing of the last pleading. An application for an extension of time to make the Request may be made by a letter filed using the Electronic Filing Service as an “Other Hearing Related Request”, and must state:
 
-> (a) the period of the delay in the making the Request;
+> (a) the period of the delay in making the Request;
 >
 > (b) the reasons for the delay in making the Request; and
 >
@@ -76,7 +78,7 @@ This Part provides for the placing of an action in the General Division on the E
 
 (1) At the time the affidavits of evidence-in-chief of a party’s witnesses are filed, the party’s solicitor or the party (if self-represented) must file an Undertaking, in Form B47 of Appendix B of these Practice Directions, by which the party’s solicitor or party (as the case may be) provides such of the following undertakings as may be applicable:&#x20;
 
-> (a)  an undertaking that the affidavit of evidence-in-chief of each witness (apart from any witness mentioned in subparagraph (b)) does not exceed the page limit of 30 pages (excluding exhibits) under Order 46A, Rule 3(3) of the Rules of Court 2021;
+> (a)  an undertaking that the affidavit of evidence-in-chief of each witness (apart from any witness  mentioned in sub-paragraph (b)) does not exceed the page limit of 30 pages (excluding exhibits) under Order 46A, Rule 3(3) of the Rules of Court 2021;
 >
 > (b)  where the Court has ordered or allowed under Order 46A, Rule 3(3) or (4) of the Rules of Court 2021 a different page limit to apply to the affidavit of evidence-in-chief of any witness before the filing of that affidavit of evidence-in-chief, an undertaking that the affidavit of evidence-in-chief of that witness does not exceed the page limit (excluding exhibits) ordered or allowed by the Court under Order 46A, Rule 3(3) or (4) of the Rules of Court 2021.
 

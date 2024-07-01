@@ -24,13 +24,13 @@ _**Election by Claimant for Part 2 of SCJIPR to apply**_
 >
 > (b) if the defendant does not agree to the application of Part 2 of the SCJIPR - comply with rule 5(2)(c) of the SCJIPR.
 
-(3) Where subparagraph (2)(a) applies, the Court will give directions to determine whether Part 2 of the SCJIPR should continue to apply to the case.
+(3) Where sub-paragraph (2)(a) applies, the Court will give directions to determine whether Part 2 of the SCJIPR should continue to apply to the case.
 
-(4) Where subparagraph (2)(b) applies, the Court will give directions to the defendant to make an application under rule 5(4) of the SCJIPR for an order for Part 2 of the SCJIPR not to apply to the case.
+(4) Where sub-paragraph (2)(b) applies, the Court will give directions to the defendant to make an application under rule 5(4) of the SCJIPR for an order for Part 2 of the SCJIPR not to apply to the case.
 
 (5) Where a claimant has elected for Part 2 of the SCJIPR to apply to the claimant’s originating claim, a defendant that does not make a counterclaim and does not agree to the application of Part 2 of the SCJIPR must, within 2 working days after the filing of the defence, make an application under rule 5(4) of the SCJIPR for an order for Part 2 of the SCJIPR not to apply to the case.
 
-(6) A claimant who has not complied with subparagraph (1), and who wishes to make an application under rule 6(2) of the SCJIPR for an order for Part 2 of the SCJIPR to apply to the claimant’s originating claim, must make that application as soon as practicable. The claimant must, before making the application:
+(6) A claimant who has not complied with sub-paragraph (1), and who wishes to make an application under rule 6(2) of the SCJIPR for an order for Part 2 of the SCJIPR to apply to the claimant’s originating claim, must make that application as soon as practicable. The claimant must, before making the application:
 
 > (a) comply with rule 6(3)(a) of the SCJIPR; or
 >
