@@ -100,7 +100,7 @@ The Chief Justice has directed that the General Division, the Appellate Division
 
 ### 14. Production of record of hearing <a href="#id-14-production-of-record-of-hearing" id="id-14-production-of-record-of-hearing"></a>
 
-(1) An audio recording mentioned in Order 15, Rule 11(6) of the Rules of Court 2021 will be made by the Court in every open court trial in an action begun by originating claim. Where a hearing is conducted by means of video conferencing or telephone conferencing using a remote communication technology approved by the Chief Justice or authorised by the Court, and the Court has authorised the making of a recording of the hearing using such remote communication technology, the recording so made will, unless the Court otherwise directs, constitute the Court’s notes of proceedings for the purposes of Order 15, Rule 11(7) of the Rules of Court 2021.
+(1) An audio recording mentioned in Order 15, Rule 11(6) of the Rules of Court 2021 will be made by the Court in every open court trial in an action begun by originating claim, and may be made by the Court in any other hearing in the General Division. Where a hearing is conducted by means of video conferencing or telephone conferencing using a remote communication technology approved by the Chief Justice or authorised by the Court, and the Court has authorised the making of a recording of the hearing using such remote communication technology, the recording so made will, unless the Court otherwise directs, constitute the Court’s notes of proceedings for the purposes of Order 15, Rule 11(7) of the Rules of Court 2021.
 
 (2) Without limiting Order 15, Rule 11(7) of the Rules of Court 2021, the Court may determine, for the purposes of that provision, that the Court’s notes of proceedings are to be taken down by a person other than the Court, whether by hand or through the use of any computer or electronic device.
 
@@ -114,9 +114,17 @@ The Chief Justice has directed that the General Division, the Appellate Division
 
 (5) The costs of engaging a service provider must be paid by the parties directly to the service provider.
 
+(5A) A request for an audio recording mentioned in sub-paragraph (1) must be made by filing the requisite Request electronic form through the Electronic Filing Service at least 7 working days before the scheduled hearing. The release of the audio recording is subject to:&#x20;
+
+> (a) the approval of the Court;&#x20;
+>
+> (b) the giving of the relevant undertakings as to the use of the audio recording available on the Singapore Courts website at [https://www.judiciary.gov.sg/services/audio-recording-transcription-services](https://www.judiciary.gov.sg/services/audio-recording-transcription-services); and&#x20;
+>
+> (c) payment of the appropriate fees and charges to the service provider engaged to provide the audio recording.
+
 (6) Requests for certified transcripts of the official record of the hearing must be made by filing the requisite Request electronic form through the Electronic Filing Service at least 7 working days before the scheduled hearing.
 
-(7) Sub-paragraph (6) applies to both civil and criminal proceedings.
+(7) Sub-paragraphs (5A) and (6) apply to both civil and criminal proceedings.
 
 ### 15. Certification of transcripts <a href="#id-15-certification-of-transcripts" id="id-15-certification-of-transcripts"></a>
 
@@ -337,6 +345,8 @@ _**Request for information on balance of monies paid into Court or deposited in 
 (2) All correspondence to the Court relating to or in connection with any pending cause or matter must be copied to all other parties to the cause or matter or to their solicitors unless there are good reasons for not doing so. Solicitors are further reminded that the Court should not be copied on correspondence between parties or their solicitors. The Registry has the discretion to reject or refuse to act on any inappropriate correspondence or correspondence that is not copied to all other parties to the cause or matter or to their solicitors unless there are good reasons for not doing so.
 
 (3) Apart from Requests coming within sub-paragraph (1), all correspondence relating to or in connection with any cause or matter before the Court of Appeal, the Appellate Division, the General Division or a Judge must be addressed to the Registrar.
+
+(3A) Apart from Requests coming within sub-paragraph (1), all correspondence to the Court relating to or in connection with any pending cause or matter must have a minimum font size of Times New Roman 12 or its equivalent, unless there are good reasons for using a smaller font size.
 
 (4) In addition, all letters should be captioned with the number of the case to which they relate and the names of the parties. For example:
 

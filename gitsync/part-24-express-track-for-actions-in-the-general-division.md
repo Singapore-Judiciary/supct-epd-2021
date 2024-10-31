@@ -76,11 +76,11 @@ This Part provides for the placing of an action in the General Division on the E
 
 ### 177.     Affidavits of evidence-in-chief
 
-(1) At the time the affidavits of evidence-in-chief of a party’s witnesses are filed, the party’s solicitor or the party (if self-represented) must file an Undertaking, in Form B47 of Appendix B of these Practice Directions, by which the party’s solicitor or party (as the case may be) provides such of the following undertakings as may be applicable:&#x20;
+(1) At the time the affidavits of evidence-in-chief of a party’s witnesses are filed, the party’s solicitor or the party (if self-represented) must file a Written Confirmation, in Form B47 of Appendix B of these Practice Directions, by which the party’s solicitor or party (as the case may be) confirms such of the following as may be applicable:
 
-> (a)  an undertaking that the affidavit of evidence-in-chief of each witness (apart from any witness  mentioned in sub-paragraph (b)) does not exceed the page limit of 30 pages (excluding exhibits) under Order 46A, Rule 3(3) of the Rules of Court 2021;
+> (a)  that the affidavit of evidence-in-chief of each witness (apart from any witness  mentioned in sub-paragraph (b)) does not exceed the page limit of 30 pages (excluding exhibits) under Order 46A, Rule 3(3) of the Rules of Court 2021;
 >
-> (b)  where the Court has ordered or allowed under Order 46A, Rule 3(3) or (4) of the Rules of Court 2021 a different page limit to apply to the affidavit of evidence-in-chief of any witness before the filing of that affidavit of evidence-in-chief, an undertaking that the affidavit of evidence-in-chief of that witness does not exceed the page limit (excluding exhibits) ordered or allowed by the Court under Order 46A, Rule 3(3) or (4) of the Rules of Court 2021.
+> (b)  where the Court has ordered or allowed under Order 46A, Rule 3(3) or (4) of the Rules of Court 2021 a different page limit to apply to the affidavit of evidence-in-chief of any witness before the filing of that affidavit of evidence-in-chief, that the affidavit of evidence-in-chief of that witness does not exceed the page limit (excluding exhibits) ordered or allowed by the Court under Order 46A, Rule 3(3) or (4) of the Rules of Court 2021.
 
 (2)     A request for the Court’s permission under Order 46A, Rule 3(4) of the Rules of Court 2021 to exceed the page limit for an affidavit of evidence-in-chief must be made no later than within 3 working days before the date of filing of that affidavit of evidence-in-chief.
 
