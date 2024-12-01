@@ -91,7 +91,9 @@ _**Originating applications to be heard in open court**_
 >
 > (f) applications and appeals under the Trade Marks Act 1998 in Rules 67 and 70(1) of the Supreme Court of Judicature (Intellectual Property) Rules 2022;
 >
-> (g) applications for admission of advocate and solicitor under section 12 of the Legal Profession Act 1966;
+> (fa) applications for admission as lawyer (non-practitioner) under section 11A of the Legal Profession Act 1966;
+>
+> (g) applications for admission as advocate and solicitor under section 12 of the Legal Profession Act 1966;
 >
 > (h) applications for _ad hoc_ admissions under section 15 of the Legal Profession Act 1966;
 >
