@@ -300,7 +300,7 @@ _**Correction of personal data**_
 
 ### 20. Filing directions to the Accountant-General for payment in or payment out or furnishing security for costs by depositing monies in the Registry <a href="#id-20-filing-directions-to-the-accountant-general-for-payment-in-or-payment-out-or-furnishing-security" id="id-20-filing-directions-to-the-accountant-general-for-payment-in-or-payment-out-or-furnishing-security"></a>
 
-(1) Where monies are to be paid into Court pursuant to a judgment or order of court, a copy of the judgment or order must be attached to the draft Direction to Accountant-General for Payment In and filed into the case file via the Electronic Filing Service for approval by the Court. The Direction to Account-General for Payment In must be in Form 44(a) of Appendix A of these Practice Directions.
+(1) Where monies are to be paid into Court pursuant to a judgment or order of court, a copy of the judgment or order must be attached to the draft Direction to Accountant-General for Payment In and filed into the case file via the Electronic Filing Service for approval by the Court. The Direction to Accountant-General for Payment In must be in Form 44(a) of Appendix A of these Practice Directions.
 
 (2) Where monies are to be paid out of Court, a copy of one of the following documents must be attached to the draft Direction to Accountant-General for Payment Out and filed into the case file via the Electronic Filing Service for approval by the Court:
 
@@ -314,29 +314,29 @@ The Direction to the Accountant-General for Payment Out must be in Form 44(b) of
 
 _**Direction to Accountant-General for Payment In or Payment Out**_
 
-(4) Where the Direction to Accountant-General for Payment In has been approved, the party or his or her solicitors (as the case may be; collectively “the Payment In Party”) must send a copy of the approved Direction to Accountant-General for Payment In and the relevant judgment or order of court to VITAL by email to [VITAL\_FS\_Receivable@vital.gov.sg](mailto:VITAL\_FS\_Receivable@vital.gov.sg). Upon successful receipt of the documents, VITAL will provide instructions on how electronic payment is to be effected. A receipt will be issued by VITAL to the Payment In Party when payment is received by the Accountant-General.
+(4) Where the Direction to Accountant-General for Payment In has been approved, the party or his or her solicitors (as the case may be; collectively “the Payment In Party”) must send a copy of the approved Direction to Accountant-General for Payment In and the relevant judgment or order of court to VITAL by email to [VITAL\_FS\_Receivable@vital.gov.sg](mailto:VITAL_FS_Receivable@vital.gov.sg). Upon successful receipt of the documents, VITAL will provide instructions on how electronic payment is to be effected. A receipt will be issued by VITAL to the Payment In Party when payment is received by the Accountant-General.
 
-(5) Where the Direction to Accountant-General for Payment Out has been approved, the party or his or her solicitors (as the case may be; collectively “the Payment Out Party”) must send a copy of the approved Direction to Accountant-General for Payment Out and the relevant judgment or order of court to VITAL by email to [VITAL\_FS\_Receivable@vital.gov.sg](mailto:VITAL\_FS\_Receivable@vital.gov.sg). Upon successful receipt of the documents, VITAL will provide instructions on the process for the release of the monies.
+(5) Where the Direction to Accountant-General for Payment Out has been approved, the party or his or her solicitors (as the case may be; collectively “the Payment Out Party”) must send a copy of the approved Direction to Accountant-General for Payment Out and the relevant judgment or order of court to VITAL by email to [VITAL\_FS\_Receivable@vital.gov.sg](mailto:VITAL_FS_Receivable@vital.gov.sg). Upon successful receipt of the documents, VITAL will provide instructions on the process for the release of the monies.
 
 _**Furnishing security for costs by depositing monies in the Registry**_
 
 (6) Where a party wishes to furnish security for costs for an appeal or an application filed in the Supreme Court by depositing monies in the Registry, he or she must deposit the monies in one of the following manners:
 
-> (a) By electronic payment: The party is to send his or her case details by email to the Finance Division of the Judiciary at [FPD\_Revenue@judiciary.gov.sg](mailto:FPD\_Revenue@judiciary.gov.sg). The party will be provided with a QR code or the bank account details for electronic payment to be made. Upon receipt of monies, a receipt will be emailed to the party by the Finance Division of the Judiciary.
+> (a) By electronic payment: The party is to send his or her case details by email to the Finance Division of the Judiciary at [FPD\_Revenue@judiciary.gov.sg](mailto:FPD_Revenue@judiciary.gov.sg). The party will be provided with a QR code or the bank account details for electronic payment to be made. Upon receipt of monies, a receipt will be emailed to the party by the Finance Division of the Judiciary.
 >
 > (b) By making payment at the Supreme Court: The party will be required to complete a requisite form when he or she attends at the Supreme Court. The accepted payment modes are Cash, Cashier’s Order (made payable to “Registrar Supreme Court/AG”), NETS and credit card. Upon payment at the counter, a receipt will be issued to the party.
 
 The party must provide proof of such deposit when filing the appeal or application.
 
-(7) Where security for costs is to be paid out to any party pursuant to the Rules of Court 2021 or an order or direction of the Court, the party entitled to payment of the security may write to the Registry to request payment out. Once the request for payment out is approved by the Registry, the party entitled to the payment must send a copy of the Registry’s approval to the Finance Division of the Judiciary at [FPD\_Revenue@judiciary.gov.sg](mailto:FPD\_Revenue@judiciary.gov.sg). The Finance Division of the Judiciary will provide instructions on the documents to be furnished to process the release of the monies.
+(7) Where security for costs is to be paid out to any party pursuant to the Rules of Court 2021 or an order or direction of the Court, the party entitled to payment of the security may write to the Registry to request payment out. Once the request for payment out is approved by the Registry, the party entitled to the payment must send a copy of the Registry’s approval to the Finance Division of the Judiciary at [FPD\_Revenue@judiciary.gov.sg](mailto:FPD_Revenue@judiciary.gov.sg). The Finance Division of the Judiciary will provide instructions on the documents to be furnished to process the release of the monies.
 
 _**Request for information on balance of monies paid into Court or deposited in the Registry**_
 
 (8) Where a party wishes to request information on the balance of monies paid into Court or deposited in the Registry, the party or his or her solicitors may send the request, accompanied by the case details and reasons for the request, by email to:
 
-> (a) [VITAL\_FS\_Receivable@vital.gov.sg](mailto:VITAL\_FS\_Receivable@vital.gov.sg), if the monies were lodged with the Accountant-General; or
+> (a) [VITAL\_FS\_Receivable@vital.gov.sg](mailto:VITAL_FS_Receivable@vital.gov.sg), if the monies were lodged with the Accountant-General; or
 >
-> (b) [FPD\_Revenue@judiciary.gov.sg](mailto:FPD\_Revenue@judiciary.gov.sg), if the monies were deposited in the Registry.
+> (b) [FPD\_Revenue@judiciary.gov.sg](mailto:FPD_Revenue@judiciary.gov.sg), if the monies were deposited in the Registry.
 
 ### 21. Requests and other Correspondence <a href="#id-21-requests-and-other-correspondence" id="id-21-requests-and-other-correspondence"></a>
 
