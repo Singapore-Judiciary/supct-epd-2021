@@ -86,7 +86,7 @@ Where documents are served using the Electronic Filing Service, a Certificate of
 
 (3) In the event that the Electronic Filing Service fails to automatically generate the document information page, parties may undertake the procedure outlined in paragraph 43(2).
 
-Every single page of a document must be paginated so that the pagination on the actual document corresponds with the pagination of the Portable Document Format (PDF) document in the electronic case file. The attention of solicitors is drawn to paragraphs 78(1)(d) and 80(3) in this regard. This is to facilitate hearings involving reference to both hard and soft copies of the same document.
+Every single page of a document must be paginated so that the pagination on the actual document corresponds with the pagination of the Portable Document Format (PDF) document in the electronic case file.&#x20;
 
 ### 38. Pagination of documents <a href="#id-37-form-of-documents" id="id-37-form-of-documents"></a>
 
