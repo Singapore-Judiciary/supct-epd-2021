@@ -9,6 +9,8 @@
 > 167\. Written submissions for criminal appeals and other criminal matters before the Court of Appeal and the General Division
 >
 > 168\. Further written submissions for criminal matters before the Court of Appeal
+>
+> 168A. Submissions by leading and junior assisting counsel in appeals under this Part
 
 ### 165. Judge Case Conference Checklist for criminal trials in the General Division <a href="#id-165-judge-case-conference-checklist-for-criminal-trials-in-the-general-division" id="id-165-judge-case-conference-checklist-for-criminal-trials-in-the-general-division"></a>
 
@@ -75,3 +77,17 @@
 ### 168. Further written submissions for criminal matters before the Court of Appeal <a href="#id-168-further-written-submissions-for-criminal-matters-before-the-court-of-appeal" id="id-168-further-written-submissions-for-criminal-matters-before-the-court-of-appeal"></a>
 
 Where the Court of Appeal orders further written submissions to be filed for any criminal matter, such written submissions must not exceed 10 pages unless otherwise directed by the Court of Appeal. Any written submissions filed in breach of this requirement may be rejected. The written submissions must further comply with all formatting requirements prescribed in paragraph 167(6) of these Practice Directions.
+
+### 168A. Submissions by leading and junior assisting counsel in appeals under this Part <a href="#id-168-further-written-submissions-for-criminal-matters-before-the-court-of-appeal" id="id-168-further-written-submissions-for-criminal-matters-before-the-court-of-appeal"></a>
+
+(1)&#x20;Notwithstanding the provisions of paragraph 96 of these Practice Directions, in the event that a party is represented by more than one counsel in the conduct of appeals under this Part, junior assisting counsel are ordinarily expected to make part of the submissions at any oral hearing.&#x20;
+
+(2)&#x20;Lead counsel is to inform the Court at the start of the oral hearing which issues would be addressed by the lead counsel or the junior assisting counsel.
+
+(3)&#x20;Unless otherwise directed by the Court,
+
+> (a)> &#x20;counsel should ensure that he or she confines himself or herself to the issues to be addressed and that there is no overlap in the issues being dealt with by different counsel for the same party; and
+>
+> (b)> &#x20;counsel must not repeat, clarify or expand on any submissions that have been made by another counsel for the same party.
+
+(4)&#x20;Nothing in this paragraph detracts from the responsibility of lead counsel to ensure that all counsel making submissions are adequately supervised and able to handle the tasks assigned to them.

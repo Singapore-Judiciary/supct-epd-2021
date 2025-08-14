@@ -4,6 +4,8 @@
 >
 > 112\. Request for further arguments before Judge
 >
+> 112A. Submissions by leading and junior assisting counsel
+>
 > 113\. Civil Appeals from the State Courts to the General Division
 >
 > * Appeals from District Judge and Magistrate to the General Division under Order 18, Rule 17 of the Rules of Court 2021
@@ -37,6 +39,21 @@ The directions in this Part apply to civil appeals before the General Division (
 (2) A copy of the Request should be furnished to all parties to the appeal.
 
 (3) All Requests should be addressed to the Registrar.
+
+### 112A. Submissions by leading and junior assisting counsel <a href="#id-113-civil-appeals-from-the-state-courts-to-general-division" id="id-113-civil-appeals-from-the-state-courts-to-general-division"></a>
+
+(1)&#x20;Notwithstanding the provisions of paragraph 96 of these Practice Directions, in the event that a party is represented by more than one counsel in the conduct of proceedings under this Part, junior assisting counsel are ordinarily expected to make part of the submissions at any oral hearing.
+
+(2)&#x20;Lead counsel is to inform the Court at the start of the oral hearing which issues would be addressed by the lead counsel or the junior assisting counsel.
+
+(3)&#x20;Unless otherwise directed by the Court,
+
+> (a)> &#x20;counsel should ensure that he or she confines himself or herself to the issues to be addressed and that there is no overlap in the issues being dealt with by different counsel for the same party; and
+>
+>> \
+> (b)> &#x20;counsel must not repeat, clarify or expand on any submissions that have been made by another counsel for the same party.
+
+(4)&#x20;Nothing in this paragraph detracts from the responsibility of lead counsel to ensure that all counsel making submissions are adequately supervised and able to handle the tasks assigned to them.
 
 ### 113. Civil Appeals from the State Courts to the General Division <a href="#id-113-civil-appeals-from-the-state-courts-to-general-division" id="id-113-civil-appeals-from-the-state-courts-to-general-division"></a>
 

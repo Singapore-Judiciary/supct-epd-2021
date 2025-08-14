@@ -10,38 +10,38 @@
 
 ## Appendix C: Registrar, Deputy Registrar, Senior Assistant Registrars, Divisional Registrars and Deputy Divisional Registrars
 
-[Registrar, Deputy Registrar, Senior Assistant Registrars, Divisional Registrars and Deputy Divisional Registrars](https://github.com/opendocsg/opendoc-supreme-court-practice-directions-2021/raw/master/downloads/Appendix\_C/PD%202021%20Appendix%20C%20011124.pdf)
+[Registrar, Deputy Registrar, Senior Assistant Registrars, Divisional Registrars and Deputy Divisional Registrars](https://github.com/opendocsg/opendoc-supreme-court-practice-directions-2021/raw/master/downloads/Appendix_C/PD%202021%20Appendix%20C%20150825.pdf)
 
 ## Appendix CA: Waiting Times
 
-[Waiting Times](https://github.com/opendocsg/opendoc-supreme-court-practice-directions-2021/raw/master/downloads/Appendix\_C/SUPCT\_new%20PDs%20\(Appendix%20CA\).pdf)
+[Waiting Times](https://github.com/opendocsg/opendoc-supreme-court-practice-directions-2021/raw/master/downloads/Appendix_C/SUPCT_new%20PDs%20\(Appendix%20CA\).pdf)
 
 ## Appendix D: Guidelines for Advocates And Solicitors Advising Clients About ADR
 
-[Guidelines for Advocates And Solicitors Advising Clients About ADR](https://github.com/opendocsg/opendoc-supreme-court-practice-directions-2021/raw/master/downloads/Appendix\_D/SUPCT\_new%20PDs%20\(Appendix%20D\).pdf)
+[Guidelines for Advocates And Solicitors Advising Clients About ADR](https://github.com/opendocsg/opendoc-supreme-court-practice-directions-2021/raw/master/downloads/Appendix_D/SUPCT_new%20PDs%20\(Appendix%20D\).pdf)
 
 ## Appendix E: Sample Bills of Costs
 
-[E1. Sample Bill of Costs for Contentious Matters – Trials](https://github.com/opendocsg/opendoc-supreme-court-practice-directions-2021/raw/master/downloads/Appendix\_E/SUPCT\_new%20PDs%20\(Appendix%20E1\).pdf)\
-[E2. Sample Bill of Costs for Contentious Matters Other Than Trials](https://github.com/opendocsg/opendoc-supreme-court-practice-directions-2021/raw/master/downloads/Appendix\_E/SUPCT\_new%20PDs%20\(Appendix%20E2\).pdf)\
-[E3. Sample Bill of Costs for Non-Contentious Matters](https://github.com/opendocsg/opendoc-supreme-court-practice-directions-2021/raw/master/downloads/Appendix\_E/SUPCT\_new%20PDs%20\(Appendix%20E3%20-%20sample%20BC%20-%20non%20contentious%20matters\).pdf)\
+[E1. Sample Bill of Costs for Contentious Matters – Trials](https://github.com/opendocsg/opendoc-supreme-court-practice-directions-2021/raw/master/downloads/Appendix_E/SUPCT_new%20PDs%20\(Appendix%20E1\).pdf)\
+[E2. Sample Bill of Costs for Contentious Matters Other Than Trials](https://github.com/opendocsg/opendoc-supreme-court-practice-directions-2021/raw/master/downloads/Appendix_E/SUPCT_new%20PDs%20\(Appendix%20E2\).pdf)\
+[E3. Sample Bill of Costs for Non-Contentious Matters](https://github.com/opendocsg/opendoc-supreme-court-practice-directions-2021/raw/master/downloads/Appendix_E/SUPCT_new%20PDs%20\(Appendix%20E3%20-%20sample%20BC%20-%20non%20contentious%20matters\).pdf)\
 
 
 ## Appendix F: Sample Costs Schedule
 
-[Appendix F](https://github.com/opendocsg/opendoc-supreme-court-practice-directions-2021/raw/master/downloads/Appendix\_F/SUPCT\_new%20PDs%20\(Appendix%20F\).pdf)\
+[Appendix F](https://github.com/opendocsg/opendoc-supreme-court-practice-directions-2021/raw/master/downloads/Appendix_F/SUPCT_new%20PDs%20\(Appendix%20F\).pdf)\
 
 
 ## Appendix G: Guidelines for Party-and-Party Costs Awards in the Supreme Court of Singapore
 
-[Appendix G](https://github.com/opendocsg/opendoc-supreme-court-practice-directions-2021/raw/master/downloads/Appendix\_G/SUPCT\_new%20PDs%20\(Appendix%20G%20-%20costs%20guidelines\).pdf)\
+[Appendix G](https://github.com/opendocsg/opendoc-supreme-court-practice-directions-2021/raw/master/downloads/Appendix_G/SUPCT_new%20PDs%20\(Appendix%20G%20-%20costs%20guidelines\).pdf)\
 
 
 ## Appendix H: Protocol for Medical Negligence Cases in the General Division of the High Court
 
-[PROTOCOL FOR MEDICAL NEGLIGENCE CASES IN THE GENERAL DIVISION OF THE HIGH COURT](https://github.com/opendocsg/opendoc-supreme-court-practice-directions-2021/raw/master/downloads/Appendix\_H/SUPCT\_new%20PDs%20\(Appendix%20H\).pdf)
+[PROTOCOL FOR MEDICAL NEGLIGENCE CASES IN THE GENERAL DIVISION OF THE HIGH COURT](https://github.com/opendocsg/opendoc-supreme-court-practice-directions-2021/raw/master/downloads/Appendix_H/SUPCT_new%20PDs%20\(Appendix%20H\).pdf)
 
 ## Appendix I
 
-[I1. Form for Election](https://github.com/opendocsg/opendoc-supreme-court-practice-directions-2021/raw/master/downloads/Appendix\_I/Appendix%20I%20I1.pdf)\
-[I2. Form for Abandonment of Claim for Monetary Relief in Excess of $500,000](https://github.com/opendocsg/opendoc-supreme-court-practice-directions-2021/raw/master/downloads/Appendix\_I/Appendix%20I%20I2.pdf)
+[I1. Form for Election](https://github.com/opendocsg/opendoc-supreme-court-practice-directions-2021/raw/master/downloads/Appendix_I/Appendix%20I%20I1.pdf)\
+[I2. Form for Abandonment of Claim for Monetary Relief in Excess of $500,000](https://github.com/opendocsg/opendoc-supreme-court-practice-directions-2021/raw/master/downloads/Appendix_I/Appendix%20I%20I2.pdf)

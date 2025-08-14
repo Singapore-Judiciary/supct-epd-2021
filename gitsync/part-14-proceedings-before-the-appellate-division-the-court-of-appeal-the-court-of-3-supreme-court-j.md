@@ -6,6 +6,8 @@
 >
 > 117A. Applications that may be made either to the General Division or an appellate Court
 >
+> 117B. Submissions by leading and junior assisting counsel
+>
 > 118\. Appeals Information Sheet for civil appeals to the Appellate Division and the Court of Appeal
 >
 > 119\. Page limits
@@ -82,6 +84,20 @@ Pursuant to section 50(1) of the Supreme Court of Judicature Act 1969, the Court
 > (b) in any event, any party who wishes to vary or discharge any direction or order made by the General Division on the application should likewise make an application to the appellate Court to vary or discharge that direction or order, instead of filing an appeal to the appellate Court.
 
 (2) Except as provided in sub-paragraph (1), any party who is dissatisfied with a decision of the General Division may file an appeal to the appellate Court against that decision in accordance with the relevant provisions of the Supreme Court of Judicature Act 1969 and the applicable rules of civil procedure.
+
+### 117B. Submissions by leading and junior assisting counsel <a href="#id-117a-applications-that-may-be-made-either-to-the-general-division-or-an-appellate-court" id="id-117a-applications-that-may-be-made-either-to-the-general-division-or-an-appellate-court"></a>
+
+(1)&#x20;Notwithstanding the provisions of paragraph 96 of these Practice Directions, in the event that a party is represented by more than one counsel in the conduct of proceedings under this Part, junior assisting counsel are ordinarily expected to make part of the submissions at any oral hearing.
+
+(2)&#x20;Lead counsel is to inform the Court at the start of the oral hearing which issues would be addressed by the lead counsel or the junior assisting counsel.
+
+(3)&#x20;Unless otherwise directed by the Court,
+
+> (a)> &#x20;counsel should ensure that he or she confines himself or herself to the issues to be addressed and that there is no overlap in the issues being dealt with by different counsel for the same party; and
+>
+> (b)> &#x20;counsel must not repeat, clarify or expand on any submissions that have been made by another counsel for the same party.
+
+(4)&#x20;Nothing in this paragraph detracts from the responsibility of lead counsel to ensure that all counsel making submissions are adequately supervised and able to handle the tasks assigned to them.
 
 ### 118. Appeals Information Sheet for civil appeals to the Appellate Division and the Court of Appeal <a href="#id-118-appeals-information-sheet-for-civil-appeals-to-the-appellate-division-and-the-court-of-appeal" id="id-118-appeals-information-sheet-for-civil-appeals-to-the-appellate-division-and-the-court-of-appeal"></a>
 
@@ -523,4 +539,4 @@ For the purposes of proceedings referred to in Parts 13 and 14 of these Practice
 
 (2) Every affidavit mentioned in sub-paragraph (1) must attach as an exhibit an information sheet in Form B29A of Appendix B of these Practice Directions. The information sheet must be completed and signed by the person who makes the affidavit.
 
-(3) Parties are  to refer to the prevailing guidance note(s) found on the Singapore Courts website at [https://www.judiciary.gov.sg/news-and-resources/court-guides](https://www.judiciary.gov.sg/news-and-resources/court-guides) for further information on how filings relating to applications for PACC permission and PACC applications are to be made on eLitigation.
+(3) Parties are to refer to the prevailing guidance note(s) found on the Singapore Courts website at [https://www.judiciary.gov.sg/news-and-resources/court-guides](https://www.judiciary.gov.sg/news-and-resources/court-guides) for further information on how filings relating to applications for PACC permission and PACC applications are to be made on eLitigation.
