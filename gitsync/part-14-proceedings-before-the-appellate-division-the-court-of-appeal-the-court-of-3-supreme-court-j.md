@@ -193,13 +193,25 @@ Pursuant to section 50(1) of the Supreme Court of Judicature Act 1969, the Court
 >
 > (b) if a table of contents is mandatory under paragraph 119(4) of these Practice Directions, the table of contents must be included at the beginning of the document immediately after the cover page(s);
 >
-> (c) all pages must be paginated, with the page numbers corresponding to the Portable Document Format (PDF) version of the document;
+> (c) all pages (including, where applicable, the cover page, table of contents, separator sheets and exhibit sheets) must be paginated such that the printed page numbers correspond to the page numbers in the soft copy Portable Document Format (PDF) version of the document, the page number must be inserted at the top right hand corner of the page;
 >
-> (d) the minimum font size to be used is Times New Roman 12 or its equivalent;
+> (d) except for content reproduced from case authorities, textbook or other commentaries, other documents filed in Court, and extracts of transcripts, which may be in Times New Roman 10 or its equivalent, the minimum font size to be used must be Times New Roman 12 or its equivalent;
 >
-> (e) the print of every page must be double-spaced; and
+> (e) the print of every page must be double-spaced, except for:
 >
-> (f) every page must have a margin on all 4 sides, each of at least 35 mm in width.
+> > (i) cover pages and tables of contents;
+> >
+> > (ii) paragraph and section headings or sub-headings;
+> >
+> > (iii) content reproduced from case authorities, textbook or other commentaries, and other documents filed in Court; and
+> >
+> > (iv) extracts of transcripts,
+>
+> which may be single-spaced;
+>
+> (f) every page must have a margin on all 4 sides, each of at least 35 mm in width; and
+>
+> (g) parties are strongly encouraged to print hard copies on both sides of each page.
 
 ### 121. Preparation of records of appeal, written Cases, written submissions and core bundles <a href="#id-121-preparation-of-records-of-appeal-written-cases-written-submissions-and-core-bundles" id="id-121-preparation-of-records-of-appeal-written-cases-written-submissions-and-core-bundles"></a>
 
@@ -243,7 +255,7 @@ _**Pagination in soft copy**_
 
 > (a) The first page of each volume must state the title and the Civil Appeal number of the appeal, the names of the parties, the volume number, a short description of its contents, the names and addresses of the appellants and respondents, and the date of filing.
 >
-> (b) The page number of each volume of the appeal records must correspond to the page number in the Portable Document Format (PDF) version of that volume. Each separate volume of the appeal records must start at page 1, and every page must be numbered consecutively. If separator sheets are used, these must also be numbered.
+> (b) All pages (including, where applicable, the cover page, table of contents, separator sheets and exhibit sheets) must be paginated in the manner provided for in paragraph 120(2)(c), and, where there are multiple volumes, each separate volume must start at page 1, and every page in that volume must be numbered consecutively.
 
 _**Table of contents**_
 
@@ -261,9 +273,7 @@ _**Table of contents**_
 >
 > (f) Electronic bookmarks for each item of the table of contents and sub-table of contents must be added to each volume of the Portable Document Format (PDF) version of the appeal records. The description of each bookmark must correspond with the description of that item in the table of contents or sub-table of contents, unless an abbreviated description is appropriate.
 
-_**Spacing**_
-
-(4) The line spacing on every page of the records of which the original is type-written (for example, any pleadings) must be double-spaced.
+(4) \[deleted]
 
 _**Arrangement of the appellant’s and respondent’s core bundles of documents and the second core bundle**_
 
@@ -273,7 +283,7 @@ _**Arrangement of the appellant’s and respondent’s core bundles of documents
 >
 > (b) **Volume B** – All other documents referred to in Order 19, Rule 3 of the Rules of Court 2021 and a table of contents listing the documents included therein.
 
-Each volume of the appellant’s and respondent’s core bundles of documents and the second core bundle must begin at page 1, every page must be numbered and the page number of the appellant’s and respondent’s core bundles of documents and the second core bundle must correspond to the page number of the Portable Document Format (PDF) version.
+Each volume of the appellant’s and respondent’s core bundles of documents and the second core bundle must start at page 1, every page in that volume must be numbered consecutively, and all pages (including, where applicable, the cover page, table of contents, separator sheets and exhibit sheets) must be paginated in the manner provided for in paragraph 120(2)(c).
 
 _**Contents page for appellant’s and respondent’s core bundles of documents and the second core bundle**_
 
@@ -331,9 +341,9 @@ are to be electronically filed by the relevant deadlines.
 
 (4) In lieu of electronically filing bundles of authorities, the party filing bundles of authorities is to electronically file, by the prescribed time set out in the Rules of Court 2021 and the Legal Profession (Proceedings before Court of 3 Supreme Court Judges) Rules 2022 for the filing of such bundles of authorities, one copy of a list of authorities (that corresponds to the index of the actual copy of the bundles of authorities). Parties are to also comply with specific requirements of this Part relating to submission of hard copies and soft copies of bundles of authorities for particular proceedings. Where there are no such specific requirements, parties are required to tender soft copies of the bundles of authorities in Portable Document Format (PDF) in a CD-ROM by the prescribed time for the filing of such bundles of authorities.
 
-(5) If a party wishes to rely on a document which does not exist in the electronic case file, he must file the document together with the respective forms of appeal bundles. Further, a table of contents must be included for these documents. These documents must be paginated consecutively at the centre top of the page and the solicitor must ensure that the pagination takes into account the pages comprising the respective forms of appeal bundles and the table of contents for these additional documents. For example, if the form of the record of appeal is 5 pages and the table of contents for the additional documents is 2 pages, the first page of the first document should be paginated as page 8.
+(5) If a party wishes to rely on a document which does not exist in the electronic case file, he must file the document together with the respective forms of appeal bundles. Further, a table of contents must be included for these documents. All pages in these documents (including, where applicable, the cover page, table of contents, separator sheets and exhibit sheets) must be paginated in the manner provided for in paragraph 120(2)(c), and the solicitor must ensure that the pagination takes into account the pages comprising the respective forms of appeal bundles and the table of contents for these additional documents. For example, if the form of the record of appeal is 5 pages and the table of contents for the additional documents is 2 pages, the first page of the first document should be paginated as page 8.
 
-(6) In addition to the requirement for electronic filing (where a pplicable), parties are to comply with the directions contained in this paragraph for the provision of hard and soft copies to assist the Court unless otherwise directed.
+(6) In addition to the requirement for electronic filing (where applicable), parties are to comply with the directions contained in this paragraph for the provision of hard and soft copies to assist the Court unless otherwise directed.
 
 _**Appeals under Order 18 of the Rules of Court 2021**_
 
@@ -361,7 +371,7 @@ _**Appeals under Order 19 of the Rules of Court 2021**_
 >
 > (c) where an appeal is to be heard by 5 Judges – 6 hard copies.
 
-(10) The directions set out in paragraph 102(6) and (11) apply in relation to the preparation of the appeal bundles in hard copy, which may be printed on one side or both sides of each page.
+(10) The directions set out in paragraph 102(6) and (11) apply in relation to the preparation of the appeal bundles in hard copy, and parties are strongly encouraged to print hard copies on both sides of each page.
 
 (11) In addition to tendering hard copies, the appellant and respondent are required to tender soft copies of the following documents in Portable Document Format (PDF) at the same time in a CD-ROM:
 

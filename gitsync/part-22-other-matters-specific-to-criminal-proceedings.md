@@ -51,18 +51,33 @@
 > (b) it is not necessary for bundles of authorities to be filed electronically if hard copies are tendered;
 >
 > (c) hard copies of bundles of authorities must be tendered to the Registry at the same time as hard copies of written submissions.
+>
+> (d) parties are strongly encouraged to print hard copies on both sides of each page.
 
 (6) The written submissions must comply with the following requirements:
 
 > (a) the written submissions must contain cross-references to the material which the party will be relying on, e.g., the relevant pages or paragraphs in authorities, the record of proceedings, affidavits, and the judgment under appeal;
 >
-> (b) all pages must be paginated, with the first page (not including any cover page) numbered as “Page 1”;
+> (b) all pages (including, where applicable, the cover page, table of contents, separator sheets and exhibit sheets) must be paginated such that the printed page numbers correspond to the page numbers in the soft copy Portable Document Format (PDF) version that is filed through the Electronic Filing Service, the page number must be inserted at the top right hand corner of the page;
 >
-> (c) the minimum font size to be used is Times New Roman 12 or its equivalent;
+> (c) except for content reproduced from case authorities, textbook or other commentaries, other documents filed in Court, and extracts of transcripts, which may be in Times New Roman 10 or its equivalent, the minimum font size to be used must be Times New Roman 12 or its equivalent;
 >
-> (d) the print of every page must be double-spaced; and
+> (d) the print of every page must be double-spaced, except for:
 >
-> (e) every page must have a margin on all 4 sides, each of at least 35mm in width.
+> > (i) cover pages and tables of contents;
+> >
+> > (ii) paragraph and section headings or sub-headings;
+> >
+> > (iii) content reproduced from case authorities, textbook or other commentaries,> > \
+> > and other documents filed in Court; and
+> >
+> > (iv) extracts of transcripts,
+>
+> which may be single-spaced; and
+>
+> (e) every page must have a margin on all 4 sides, each of at least 35mm in width; and
+>
+> (f) parties are strongly encouraged to print hard copies on both sides of each page.
 
 (7) Subject to any written law prescribing timelines for the filing of written submissions in criminal matters to which this paragraph applies, and any Court directions:
 

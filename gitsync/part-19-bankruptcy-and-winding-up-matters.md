@@ -69,7 +69,7 @@ _**Bundles of documents**_
 
 (3) For bundles of documents:
 
-> (a) Documents to be used at trial should be consolidated into bundles paginated consecutively throughout at the top right hand corner. An index of the contents of each bundle in the manner and form set out in Form B18 of Appendix B of these Practice Directions must also be prepared. No bundle of documents is necessary in cases where parties are not relying on any document at the trial.
+> (a) Documents to be used at trial (including, where applicable, the cover page, table of contents, separator sheets and exhibit sheets) must be paginated such that the printed page numbers correspond to the page numbers in the soft copy Portable Document Format (PDF) version of the document that is filed through the Electronic Filing Service, the page number must be inserted at the top right hand corner of the page, and, where there are multiple volumes, each separate volume must start at page 1, and every page in that volume must be numbered consecutively. An index of the contents of each bundle in the manner and form set out in Form B18 of Appendix B of these Practice Directions must also be prepared. No bundle of documents is necessary in cases where parties are not relying on any document at the trial.
 >
 > (b) It is the responsibility of solicitors for all parties to agree and prepare an agreed bundle as soon as possible. The scope to which the agreement extends must be stated in the index sheet of the agreed bundle.
 >

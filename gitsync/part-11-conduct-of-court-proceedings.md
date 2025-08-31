@@ -149,17 +149,29 @@ If parties wish to tender any hard copy documents ahead of the hearing before th
 >
 > (d) a summary of arguments.
 
-(6) The applicant’s skeletal submissions should be in the following format:
+(6) The applicant’s skeletal submissions must be in the following format:
 
-> (a) all pages should be paginated;
+> (a) all pages (including, where applicable, the cover page, table of contents, separator sheets and exhibit sheets) must be paginated such that the printed page numbers correspond to the page numbers in the soft copy Portable Document Format (PDF) version of the document that is filed through the Electronic Filing Service, the page number must be inserted at the top right hand corner of the page, and, where there are multiple volumes, each separate volume must start at page 1, and every page in that volume must be numbered consecutively;
 >
 > (b) the skeletal submissions should not exceed 10 pages (excluding the cover page);
 >
-> (c) the minimum font size to be used is Times New Roman 12 or its equivalent;
+> (c) except for content reproduced from case authorities, textbook or other commentaries, other documents filed in Court, and extracts of transcripts, which may be in Times New Roman 10 or its equivalent, the minimum font size to be used must be Times New Roman 12 or its equivalent;
 >
-> (d) the print of every page must be double-spaced; and
+> (d) the print of every page must be double-spaced, except for:
 >
-> (e) every page must have a margin on all 4 sides, each of at least 35mm in width.
+> > (i) cover pages and tables of contents;
+> >
+> > (ii) paragraph and section headings or sub-headings;
+> >
+> > (iii) content reproduced from case authorities, textbook or other commentaries, and other documents filed in Court; and
+> >
+> > (iv) extracts of transcripts,
+>
+> which may be single-spaced;&#x20;
+>
+> (e) every page must have a margin on all 4 sides, each of at least 35mm in width; and
+>
+> (f) parties are strongly encouraged to print hard copies on both sides of each page.
 
 ### 88. Attendance of solicitors in Court and mentioning on behalf of other solicitors <a href="#id-88-attendance-of-solicitors-in-court-and-mentioning-on-behalf-of-other-solicitors" id="id-88-attendance-of-solicitors-in-court-and-mentioning-on-behalf-of-other-solicitors"></a>
 
@@ -395,7 +407,7 @@ _**Time for filing of documents**_
 
 (2) In the event that it is not possible to file the documents in advance of the hearing, counsel may apply to the Judge or Registrar conducting the hearing for permission:
 
-> (a) to use hard copy documents during the hearing. Without limiting paragraph 102(11) of these Practice Directions, the hard copy documents may be printed on one side or both sides of each page; or
+> (a) to use hard copy documents during the hearing. Without limiting paragraph 102(11) of these Practice Directions, parties are strongly encouraged to print hard copies on both sides of each page; or
 >
 > (b) to display a soft copy of the document by sharing his or her screen during the hearing (if the hearing is conducted by video-conferencing).
 
@@ -431,13 +443,37 @@ _**General requirements as regards documents filed for use in Court**_
 > >
 > > (ii) the party chooses to tender hard copy of the document to the Registry.
 
+(4A) Pleadings, the text of affidavits (as opposed to the exhibits), opening statements and written submissions filed in or submitted to the General Division of the High Court must comply with the following requirements:
+
+> (a) all pages (including, where applicable, the cover page, table of contents, separator sheets and exhibit sheets) must be paginated such that the printed page numbers correspond to the page numbers in the soft copy Portable Document Format (PDF) version of the document that is filed through the Electronic Filing Service, the page number must be inserted at the top right hand corner of the page, and, where there are multiple volumes, each separate volume must start at page 1, and every page in that volume must be numbered consecutively;
+>
+> (b) except for content reproduced from case authorities, textbook or other commentaries, other documents filed in Court, and extracts of transcripts, which may be in Times New Roman 10 or its equivalent, the minimum font size to be used must be Times New Roman 12 or its equivalent;
+>
+> (c) the print of every page must be double-spaced, except for:
+>
+> > (i) cover pages and tables of contents;
+> >
+> > (ii) paragraph and section headings or sub-headings;
+> >
+> > (iii) content reproduced from case authorities, textbook or other commentaries, and other documents filed in Court; and
+> >
+> > (iv) extracts of transcripts,
+>
+> which may be single-spaced;
+>
+> (d) every page must have a margin on all 4 sides, each of at least 35mm in width; and
+>
+> (e) parties are strongly encouraged to print hard copies on both sides of each page.
+
+(4B) Sub-paragraph (4A) does not apply to any documents for which specific directions on formatting are provided for in these Practice Directions.
+
 _**Bundle of authorities**_
 
 (5) Where bundles of authorities are required to be filed under these Practice Directions or by the Court, the following directions, unless otherwise provided by these Practice Directions or ordered by the Court, apply.
 
 (6) Bundles of authorities may be filed, served, delivered or otherwise conveyed using the Electronic Filing Service. A party may also choose not to file the bundle of authorities into the electronic case file and instead submit a hard copy of the bundle of authorities for hearings according to the directions in this Part.
 
-(7) The party using the hard copy of the bundle of authorities must produce the bundle at every hearing at which it is required. The hard copy of the bundle of authorities may be printed on one side or both sides of each page. The Court will neither retain nor undertake to produce for hearings the hard copy of the bundle. The Judge or Registrar may, if he or she so chooses, retain the hard copy of the bundle of authorities for his or her own reference. The hard copy so retained will not, however, form part of the Court’s record in respect of the proceedings in which it was used.
+(7) The party using the hard copy of the bundle of authorities must produce the bundle at every hearing at which it is required. Parties are strongly encouraged to print hard copies on both sides of each page. The Court will neither retain nor undertake to produce for hearings the hard copy of the bundle. The Judge or Registrar may, if he or she so chooses, retain the hard copy of the bundle of authorities for his or her own reference. The hard copy so retained will not, however, form part of the Court’s record in respect of the proceedings in which it was used.
 
 (8) Counsel must adhere to the following directions when preparing bundles of authorities for use in Court. These requirements also apply to paragraphs 102 to 105 of these Practice Directions:
 
@@ -467,7 +503,7 @@ _**Bundle of authorities**_
 >
 > (g) The bundle of authorities must have flags to mark out the authorities. Such flags must bear the appropriate indicium by which the authority is referred to. Flags must be spaced out evenly along the right side of the bundle so that as far as possible they do not overlap one another.
 >
-> (h) The bundle of authorities must be paginated consecutively at the top right hand corner of each page. Each separate volume must start at page 1, and every page in that volume must be numbered consecutively.
+> (h) All pages (including, where applicable, the cover page, table of contents, separator sheets and exhibit sheets) must be paginated such that the printed page numbers correspond to the page numbers in the soft copy Portable Document Format (PDF) version of the document that is filed through the Electronic Filing Service, the page number must be inserted at the top right hand corner of the page, and, where there are multiple volumes, each separate volume must start at page 1, and every page in that volume must be numbered consecutively.
 >
 > (i) The bundle of authorities must be legible. Clear copies of the authorities must be made available for inspection by the other parties or the Judge if the copies exhibited in the bundle of authorities are not legible.
 
@@ -481,7 +517,8 @@ _**Bundle of authorities**_
 >
 > (b) The name given to each bookmark should be the same as the corresponding authority in the table of contents.
 >
-> (c) The page number of each printed volume of the bundle must correspond to the page number in the Portable Document Format (PDF) version of that volume of the bundle. Each separate volume must start at page 1, and every page in that volume must be numbered consecutively.
+> (c) All pages (including, where applicable, the cover page, table> \
+> of contents, separator sheets and exhibit sheets) must be paginated in the manner provided for in sub-paragraph (8)(h).
 
 ### 102. Documents for use in trials of originating claims in open court <a href="#id-102-documents-for-use-in-trials-of-originating-claims-in-open-court" id="id-102-documents-for-use-in-trials-of-originating-claims-in-open-court"></a>
 
@@ -503,7 +540,7 @@ _**Mode of filing documents**_
 
 (5) The opening statement, the affidavits of the evidence-in-chief of all witnesses or other affidavits, and the bundle of documents must be filed in Court as separate documents using the Electronic Filing Service, and, if required, each of the opening statement, the affidavits of the evidence-in-chief of all witnesses or other affidavits, and the bundle of documents in Portable Document Format (PDF) stored on optical media (CD-ROM or DVD-ROM) may be tendered to the Registry. The documents must comply with the provisions of this paragraph.
 
-(6) The parties may tender the documents referred to at sub-paragraph (5) above to the Registry in hard copy. The hard copy must tally in all respects with the soft copy, and the page numbers of the hard copy must correspond to the page numbers in the Portable Document Format (PDF) version. Parties should adhere as far as possible to the guidelines set out on the eLitigation website at [https://www.elitigation.sg](https://www.elitigation.sg/) on the resolution to be used when scanning documents into PDF.
+(6) The parties may tender the documents referred to at sub-paragraph (5) above to the Registry in hard copy. The hard copy must tally in all respects with the soft copy, and all pages (including, where applicable, the cover page, table of contents, separator sheets and exhibit sheets) must be paginated such that the printed page numbers correspond to the page numbers in the soft copy Portable Document Format (PDF) version of the document that is filed through the Electronic Filing Service, the page number must be inserted at the top right hand corner of the page, and, where there are multiple volumes, each separate volume must start at page 1, and every page in that volume must be numbered consecutively. Parties should adhere as far as possible to the guidelines set out on the eLitigation website at [https://www.elitigation.sg](https://www.elitigation.sg/) on the resolution to be used when scanning documents into PDF.
 
 _**Bundles of documents**_
 
@@ -527,7 +564,7 @@ Where directed by the Court, the claimant’s solicitors are to prepare a table 
 >
 > (c) It is the responsibility of the solicitors for all parties to agree and prepare a bundle of agreed documents. The scope to which the agreement extends must be stated in the index sheet of the bundle of agreed documents. If the parties are unable to agree on the inclusion of certain documents, those documents on which agreement cannot be reached must be prepared by the party that intends to rely on or refer to those documents. It is the responsibility of the solicitors for the party filing the bundle of documents under Order 9, Rule 25(10) of the Rules of Court 2021 to separate the documents into sections for documents of which authenticity is not in dispute and documents of which authenticity is in dispute and to indicate in the index sheet the documents of which authenticity is in dispute and by whom. Apart from the above, the various PDF documents should be arranged chronologically or in some logical order.
 >
-> (d) The page number of each printed volume of the bundle of documents must correspond to the page number in the Portable Document Format (PDF) version of that volume of the bundle. Each separate volume must start at page 1, and every page must be numbered consecutively.
+> (d) All pages (including, where applicable, the cover page,> &#x20;table of contents, separator sheets and exhibit sheets) must be paginated in the manner provided for in sub-paragraph (6).
 
 (10) For proceedings using the Electronic Filing Service, a bundle of documents may be created online and filed through the Electronic Filing Service. The electronic bundle must be created in Portable Document Format (PDF). The electronic bundle may contain:
 
@@ -537,7 +574,7 @@ Where directed by the Court, the claimant’s solicitors are to prepare a table 
 
 (11) The following directions apply to hard copies tendered to the Registry or the Court:
 
-> (a) The bundles of documents should be paginated consecutively throughout at the top right hand corner and may be printed on one side or both sides of each page. Each separate volume must start at page 1, and every page in that volume must be numbered consecutively.
+> (a) All pages of the bundles of documents (including, where applicable, the cover page, table of contents, separator sheets and exhibit sheets) must be paginated in the manner provided for in sub-paragraph (6), the page number must be inserted at the top right hand corner of the page, and parties are strongly encouraged to print hard copies on both sides of each page.&#x20;
 >
 > (b) Where the bundle of documents consists of more than 1 volume:
 >
@@ -587,13 +624,23 @@ _**Opening statements**_
 >
 > (d) The following format must be adhered to when preparing opening statements:
 >
-> > (i) all pages must be paginated, with the first page numbered as ‘Page 1’ so that the page numbers of the hard copy correspond to the page numbers in the Portable Document Format (PDF) version;
+> > (i) all pages (including, where applicable, the cover page, table of contents, separator sheets and exhibit sheets) must be paginated in the manner provided for in sub-paragraph (6);
 > >
-> > (ii) the minimum font size to be used is Times New Roman 12 or its equivalent;
+> > (ii) except for content reproduced from case authorities, textbook or other commentaries, other documents filed in Court, and extracts of transcripts, which may be in Times New Roman 10 or its equivalent, the minimum font size to be used must be Times New Roman 12 or its equivalent;
 > >
-> > (iii) the print of every page must be double spaced;
+> > (iii) the print of every page must be double-spaced, except for:
 > >
-> > (iv) each page may be printed on one side or both sides; and
+> > > (A) cover pages and tables of contents;
+> > >
+> > > (B) paragraph and section headings or sub-headings;
+> > >
+> > > (C) content reproduced from case authorities, textbook or other commentaries, and other documents filed in Court; and
+> > >
+> > > (D) extracts of transcripts,
+> >
+> > which may be single-spaced;
+> >
+> > (iv) parties are strongly encouraged to print hard copies on both sides of each page; and
 > >
 > > (v) every page must have a margin on all 4 sides, each of at least 35 mm in width.
 >

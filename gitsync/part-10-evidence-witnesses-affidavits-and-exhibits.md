@@ -67,11 +67,21 @@ _**Request for Registrar to produce document or Court’s records**_
 
 ### 78. Form of affidavits <a href="#id-78-form-of-affidavits" id="id-78-form-of-affidavits"></a>
 
-(1) Affidavits must be in Form 31 of Appendix A of these Practice Directions. In addition to the requirements under Order 15, Rule 19 of the Rules of Court 2021, affidavits should comply with the following requirements:
+(1) Affidavits must be in Form 31 of Appendix A of these Practice Directions. In addition to the requirements under Order 15, Rule 19 of the Rules of Court 2021, affidavits must comply with the following requirements:
 
-> (a) they should have a blank margin not less than 35mm wide on all 4 sides of each page;
+> (a) every page must have a margin on all 4 sides, each of at least 35mm in width;
 >
-> (b) the text of the affidavits, as opposed to the exhibits, must be printed or typed and double-spaced on white paper;
+> (b) the text of affidavits, (as opposed to the exhibits) must be printed or typed on white paper, and the print of every page of the text of affidavits (as opposed to the exhibits) must be double-spaced, except for:
+>
+> > (i) cover pages and tables of contents;
+> >
+> > (ii) paragraph and section headings or sub-headings;
+> >
+> > (iii) content reproduced from case authorities, textbook or other commentaries, and other documents filed in Court; and
+> >
+> > (iv) extracts of transcripts,
+>
+>> which may be single-spaced;
 >
 > (c) the following information must be typed or printed in a single line at the top right hand corner of the first page of every affidavit:
 >
@@ -85,7 +95,11 @@ _**Request for Registrar to produce document or Court’s records**_
 > >
 > > For example, “2nd Df; Tan Ah Kow; 4th; 15.12.2021”.
 >
-> (d) every page of the affidavit must be paginated consecutively, and the page number must be inserted at the centre top of each page of the affidavit other than the exhibits and separators. Exhibits and separators must be paginated in accordance with paragraph 80(3) below.
+> (d) all pages (including, where applicable, the cover page, table of contents, separator sheets and exhibit sheets) must be paginated such that the printed page numbers correspond to the page numbers in the soft copy Portable Document Format (PDF) version of the document that is filed through the Electronic Filing Service, the page number must be inserted at the top right hand corner of the page, and, where there are multiple volumes, each separate volume must start at page 1, and every page in that volume must be numbered consecutively.
+>
+> (e) except for content reproduced from case authorities, textbook or other commentaries, other documents filed in Court, and extracts of transcripts, which may be in Times New Roman 10 or its equivalent, the minimum font size to be used must be Times New Roman 12 or its equivalent.
+>
+> (f) parties are strongly encouraged to print hard copies on both sides of each page.
 
 (2) When filing affidavits for use during a hearing of an interlocutory application, the summons number of the interlocutory application must be provided in the Electronic Filing Service in addition to the case number of the suit or matter.
 
@@ -124,7 +138,7 @@ and
 
 _**Pagination**_
 
-(3) Every page of the exhibits, _including cover pages, dividing sheets or separators between exhibits,_ must be consecutively numbered at the top right hand corner of each page, following from the page numbers of the text of the affidavit (i.e., the first page of the exhibits must take the page number following the last sheet of the text of the affidavit). The page number of the affidavit must correspond to the page number in the Portable Document Format (PDF) version that is filed through the Electronic Filing Service.
+(3) All pages (including, where applicable, the cover page, table of contents, separator sheets and exhibit sheets) must be paginated such that the printed page numbers correspond to the page numbers in the soft copy Portable Document Format (PDF) version of the document that is filed through the Electronic Filing Service, the page number must be inserted at the top right hand corner of the page, and, where there are multiple volumes, each separate volume must start at page 1, and every page in that volume must be numbered consecutively.
 
 _**Dividing sheets**_
 

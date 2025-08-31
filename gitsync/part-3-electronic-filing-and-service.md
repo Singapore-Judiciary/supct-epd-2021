@@ -86,11 +86,11 @@ Where documents are served using the Electronic Filing Service, a Certificate of
 
 (3) In the event that the Electronic Filing Service fails to automatically generate the document information page, parties may undertake the procedure outlined in paragraph 43(2).
 
-Every single page of a document must be paginated so that the pagination on the actual document corresponds with the pagination of the Portable Document Format (PDF) document in the electronic case file.&#x20;
+All pages (including, where applicable, the cover page, table of contents, separator sheets and exhibit sheets) of a document must be paginated such that the printed page numbers correspond of to the page numbers in the soft copy Portable Document Format (PDF) version of the document that is filed through the Electronic Filing Service, the page number must be inserted at the top right hand corner of the page, and, where there are multiple volumes, each separate volume must start at page 1, and every page in that volume must be numbered consecutively.
 
 ### 38. Pagination of documents <a href="#id-37-form-of-documents" id="id-37-form-of-documents"></a>
 
-Every single page of a document must be paginated so that the pagination on the actual document corresponds with the pagination of the Portable Document Format (PDF) document in the electronic case file. The attention of solicitors is drawn to paragraphs 78(1)(d) and 80(3) in this regard. This is to facilitate hearings involving reference to both hard and soft copies of the same document.
+All pages (including, where applicable, the cover page, table of contents, separator sheets and exhibit sheets) of a document must be paginated such that the printed page numbers correspond to the page numbers in the soft copy Portable Document Format (PDF) version of the document that is filed through the Electronic Filing Service, the page number must be inserted at the top right hand corner of the page, and, where there are multiple volumes, each separate volume must start at page 1, and every page in that volume must be numbered consecutively. The attention of solicitors is drawn to paragraphs 78(1)(d) and 80(3) in this regard. This is to facilitate hearings involving reference to both hard and soft copies of the same document.
 
 ### 39. Filing documents through service bureau <a href="#id-39-filing-documents-through-service-bureau" id="id-39-filing-documents-through-service-bureau"></a>
 
