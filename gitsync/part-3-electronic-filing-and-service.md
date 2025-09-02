@@ -86,7 +86,7 @@ Where documents are served using the Electronic Filing Service, a Certificate of
 
 (3) In the event that the Electronic Filing Service fails to automatically generate the document information page, parties may undertake the procedure outlined in paragraph 43(2).
 
-All pages (including, where applicable, the cover page, table of contents, separator sheets and exhibit sheets) of a document must be paginated such that the printed page numbers correspond of to the page numbers in the soft copy Portable Document Format (PDF) version of the document that is filed through the Electronic Filing Service, the page number must be inserted at the top right hand corner of the page, and, where there are multiple volumes, each separate volume must start at page 1, and every page in that volume must be numbered consecutively.
+All pages (including, where applicable, the cover page, table of contents, separator sheets and exhibit sheets) of a document must be paginated such that the printed page numbers correspond to the page numbers in the soft copy Portable Document Format (PDF) version of the document that is filed through the Electronic Filing Service, the page number must be inserted at the top right hand corner of the page, and, where there are multiple volumes, each separate volume must start at page 1, and every page in that volume must be numbered consecutively.
 
 ### 38. Pagination of documents <a href="#id-37-form-of-documents" id="id-37-form-of-documents"></a>
 
