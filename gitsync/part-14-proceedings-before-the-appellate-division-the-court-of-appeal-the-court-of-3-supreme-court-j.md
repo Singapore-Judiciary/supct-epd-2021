@@ -193,7 +193,7 @@ Pursuant to section 50(1) of the Supreme Court of Judicature Act 1969, the Court
 >
 > (b) if a table of contents is mandatory under paragraph 119(4) of these Practice Directions, the table of contents must be included at the beginning of the document immediately after the cover page(s);
 >
-> (c) all pages (including, where applicable, the cover page, table of contents, separator sheets and exhibit sheets) must be paginated such that the printed page numbers correspond to the page numbers in the soft copy Portable Document Format (PDF) version of the document, the page number must be inserted at the top right hand corner of the page;
+> (c) all pages (including, where applicable, the cover page, table of contents, separator sheets and exhibit sheets) must be paginated such that the printed page numbers correspond to the page numbers in the soft copy Portable Document Format (PDF) version of the document, and the page number must be inserted at the top right hand corner of the page;
 >
 > (d) except for content reproduced from case authorities, textbook or other commentaries, other documents filed in Court, and extracts of transcripts, which may be in Times New Roman 10 or its equivalent, the minimum font size to be used must be Times New Roman 12 or its equivalent;
 >

@@ -517,8 +517,7 @@ _**Bundle of authorities**_
 >
 > (b) The name given to each bookmark should be the same as the corresponding authority in the table of contents.
 >
-> (c) All pages (including, where applicable, the cover page, table> \
-> of contents, separator sheets and exhibit sheets) must be paginated in the manner provided for in sub-paragraph (8)(h).
+> (c) All pages (including, where applicable, the cover page, table> &#x20;of contents, separator sheets and exhibit sheets) must be paginated in the manner provided for in sub-paragraph (8)(h).
 
 ### 102. Documents for use in trials of originating claims in open court <a href="#id-102-documents-for-use-in-trials-of-originating-claims-in-open-court" id="id-102-documents-for-use-in-trials-of-originating-claims-in-open-court"></a>
 

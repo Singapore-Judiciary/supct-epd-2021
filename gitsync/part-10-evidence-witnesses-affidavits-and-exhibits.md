@@ -71,7 +71,7 @@ _**Request for Registrar to produce document or Court’s records**_
 
 > (a) every page must have a margin on all 4 sides, each of at least 35mm in width;
 >
-> (b) the text of affidavits, (as opposed to the exhibits) must be printed or typed on white paper, and the print of every page of the text of affidavits (as opposed to the exhibits) must be double-spaced, except for:
+> (b) the text of affidavits; (as opposed to the exhibits) must be printed or typed on white paper, and the print of every page of the text of affidavits (as opposed to the exhibits) must be double-spaced, except for:
 >
 > > (i) cover pages and tables of contents;
 > >

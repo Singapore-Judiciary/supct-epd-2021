@@ -50,7 +50,7 @@
 >
 > (b) it is not necessary for bundles of authorities to be filed electronically if hard copies are tendered;
 >
-> (c) hard copies of bundles of authorities must be tendered to the Registry at the same time as hard copies of written submissions.
+> (c) hard copies of bundles of authorities must be tendered to the Registry at the same time as hard copies of written submissions;
 >
 > (d) parties are strongly encouraged to print hard copies on both sides of each page.
 
@@ -58,7 +58,7 @@
 
 > (a) the written submissions must contain cross-references to the material which the party will be relying on, e.g., the relevant pages or paragraphs in authorities, the record of proceedings, affidavits, and the judgment under appeal;
 >
-> (b) all pages (including, where applicable, the cover page, table of contents, separator sheets and exhibit sheets) must be paginated such that the printed page numbers correspond to the page numbers in the soft copy Portable Document Format (PDF) version that is filed through the Electronic Filing Service, the page number must be inserted at the top right hand corner of the page;
+> (b) all pages (including, where applicable, the cover page, table of contents, separator sheets and exhibit sheets) must be paginated such that the printed page numbers correspond to the page numbers in the soft copy Portable Document Format (PDF) version that is filed through the Electronic Filing Service, and the page number must be inserted at the top right hand corner of the page;
 >
 > (c) except for content reproduced from case authorities, textbook or other commentaries, other documents filed in Court, and extracts of transcripts, which may be in Times New Roman 10 or its equivalent, the minimum font size to be used must be Times New Roman 12 or its equivalent;
 >
