@@ -96,6 +96,8 @@ _**Pre-judgment contractual interest**_
 > > (ii) The period of interest must be as pleaded, except that it must end on the date of judgment and not on the date of payment.
 > >
 > > (iii) The total amount of interest payable must be specified in the judgment.
+>
+> (c) Evidence of the agreement as to the rate of interest must be attached to the draft judgment.
 
 _**Post-judgment interest**_
 
