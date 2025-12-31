@@ -411,8 +411,7 @@ _**Applications under sections 36U(1), 82A(10) and 98(1) of the Legal Profession
 
 _**Naming convention for documents in the CD-ROM and labelling of the CD-ROM**_
 
-(16) The files in the CD-ROMs that are required to be tendered under this paragraph must be named in accordance with the following format:\
-
+(16) The files in the CD-ROMs that are required to be tendered under this paragraph must be named in accordance with the following format:<br>
 
 &#x20;   \<party> - \<document title>
 
@@ -428,8 +427,7 @@ _**Naming convention for documents in the CD-ROM and labelling of the CD-ROM**_
 
 &#x20;   1st Appellant – Record of Appeal Vol 1
 
-&#x20;   1st Appellant – Record of Appeal Vol 2\
-
+&#x20;   1st Appellant – Record of Appeal Vol 2<br>
 
 (17) The CD-ROM must be clearly labelled with the case number and title of the proceedings. If there is more than one CD-ROM, the CD-ROMs must be numbered sequentially.
 

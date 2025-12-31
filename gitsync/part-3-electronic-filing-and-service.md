@@ -40,11 +40,11 @@
 
 ### 32. Establishment of Electronic Filing Service and appointment of electronic filing service provider <a href="#id-32-establishment-of-electronic-filing-service-and-appointment-of-electronic-filing-service-provider" id="id-32-establishment-of-electronic-filing-service-and-appointment-of-electronic-filing-service-provider"></a>
 
-In exercise of the powers conferred by Order 28, Rules 2 and 3 of the Rules of Court 2021, the Registrar, with the approval of the Chief Justice, has established an Electronic Filing Service known as the Integrated Electronic Litigation System or eLitigation and accessible at [https://www.elitigation.sg](https://www.elitigation.sg/) and has appointed CrimsonLogic Pte Ltd as the Electronic Filing Service provider.
+In exercise of the powers conferred by Order 28, Rules 2 and 3 of the Rules of Court 2021, the Registrar, with the approval of the Chief Justice, has established an Electronic Filing Service known as the Integrated Electronic Litigation System or eLitigation and accessible at [https://www.elitigation.sg](https://www.elitigation.sg/), and has appointed an Electronic Filing Service provider whose contact details are available at [https://www.judiciary.gov.sg/services/elitigation](https://www.judiciary.gov.sg/services/elitigation).
 
 ### 33. Appointment of agent to establish service bureau <a href="#id-33-appointment-of-agent-to-establish-service-bureau" id="id-33-appointment-of-agent-to-establish-service-bureau"></a>
 
-Pursuant to Order 28, Rule 5 of the Rules of Court 2021, the Registrar has appointed CrimsonLogic Pte Ltd as an agent to establish a service bureau or service bureaux at such address or addresses in Singapore as may be deemed suitable.
+Pursuant to Order 28, Rule 5 of the Rules of Court 2021, the Registrar has appointed an agent to establish a service bureau or service bureaux at such address or addresses in Singapore as may be deemed suitable, whose contact details are available at [https://www.judiciary.gov.sg/services/elitigation](https://www.judiciary.gov.sg/services/elitigation).
 
 (1) For the purposes of Order 28 of the Rules of Court 2021, the identification code of an authorised user is the authorised user’s SingPass ID.
 

@@ -10,7 +10,7 @@
 
 ## Appendix C: Registrar, Deputy Registrar, Senior Assistant Registrars, Divisional Registrars and Deputy Divisional Registrars
 
-[Registrar, Deputy Registrar, Senior Assistant Registrars, Divisional Registrars and Deputy Divisional Registrars](https://github.com/opendocsg/opendoc-supreme-court-practice-directions-2021/raw/master/downloads/Appendix_C/PD%202021%20Appendix%20C%20150825.pdf)
+[Registrar, Deputy Registrar, Senior Assistant Registrars, Divisional Registrars and Deputy Divisional Registrars](https://github.com/opendocsg/opendoc-supreme-court-practice-directions-2021/raw/master/downloads/Appendix_C/PD%202021%20Appendix%20C%20241225.pdf)
 
 ## Appendix CA: Waiting Times
 
@@ -24,18 +24,15 @@
 
 [E1. Sample Bill of Costs for Contentious Matters – Trials](https://github.com/opendocsg/opendoc-supreme-court-practice-directions-2021/raw/master/downloads/Appendix_E/SUPCT_new%20PDs%20\(Appendix%20E1\).pdf)\
 [E2. Sample Bill of Costs for Contentious Matters Other Than Trials](https://github.com/opendocsg/opendoc-supreme-court-practice-directions-2021/raw/master/downloads/Appendix_E/SUPCT_new%20PDs%20\(Appendix%20E2\).pdf)\
-[E3. Sample Bill of Costs for Non-Contentious Matters](https://github.com/opendocsg/opendoc-supreme-court-practice-directions-2021/raw/master/downloads/Appendix_E/SUPCT_new%20PDs%20\(Appendix%20E3%20-%20sample%20BC%20-%20non%20contentious%20matters\).pdf)\
-
+[E3. Sample Bill of Costs for Non-Contentious Matters](https://github.com/opendocsg/opendoc-supreme-court-practice-directions-2021/raw/master/downloads/Appendix_E/SUPCT_new%20PDs%20\(Appendix%20E3%20-%20sample%20BC%20-%20non%20contentious%20matters\).pdf)<br>
 
 ## Appendix F: Sample Costs Schedule
 
-[Appendix F](https://github.com/opendocsg/opendoc-supreme-court-practice-directions-2021/raw/master/downloads/Appendix_F/SUPCT_new%20PDs%20\(Appendix%20F\).pdf)\
-
+[Appendix F](https://github.com/opendocsg/opendoc-supreme-court-practice-directions-2021/raw/master/downloads/Appendix_F/SUPCT_new%20PDs%20\(Appendix%20F\).pdf)<br>
 
 ## Appendix G: Guidelines for Party-and-Party Costs Awards in the Supreme Court of Singapore
 
-[Appendix G](https://github.com/opendocsg/opendoc-supreme-court-practice-directions-2021/raw/master/downloads/Appendix_G/SUPCT_new%20PDs%20\(Appendix%20G%20-%20costs%20guidelines\).pdf)\
-
+[Appendix G](https://github.com/opendocsg/opendoc-supreme-court-practice-directions-2021/raw/master/downloads/Appendix_G/SUPCT_new%20PDs%20\(Appendix%20G%20-%20costs%20guidelines\).pdf)<br>
 
 ## Appendix H: Protocol for Medical Negligence Cases in the General Division of the High Court
 

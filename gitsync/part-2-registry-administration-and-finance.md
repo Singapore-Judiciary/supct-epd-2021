@@ -312,23 +312,17 @@ The Direction to the Accountant-General for Payment Out must be in Form 44(b) of
 
 (3) Each draft Direction to Accountant-General for Payment In or Payment Out must contain amounts in a single currency. Where monies in different currencies are to be paid into or out of Court, separate draft Directions must be prepared for each currency in which payment is to be made.
 
-_**Direction to Accountant-General for Payment In or Payment Out**_
+_**Direction to Accountant-General for Payment In or Payment Out for matters in the General Division**_
 
 (4) Where the Direction to Accountant-General for Payment In has been approved, the party or his or her solicitors (as the case may be; collectively “the Payment In Party”) must send a copy of the approved Direction to Accountant-General for Payment In and the relevant judgment or order of court to VITAL by email to [VITAL\_FS\_Receivable@vital.gov.sg](mailto:VITAL_FS_Receivable@vital.gov.sg). Upon successful receipt of the documents, VITAL will provide instructions on how electronic payment is to be effected. A receipt will be issued by VITAL to the Payment In Party when payment is received by the Accountant-General.
 
 (5) Where the Direction to Accountant-General for Payment Out has been approved, the party or his or her solicitors (as the case may be; collectively “the Payment Out Party”) must send a copy of the approved Direction to Accountant-General for Payment Out and the relevant judgment or order of court to VITAL by email to [VITAL\_FS\_Receivable@vital.gov.sg](mailto:VITAL_FS_Receivable@vital.gov.sg). Upon successful receipt of the documents, VITAL will provide instructions on the process for the release of the monies.
 
-_**Furnishing security for costs by depositing monies in the Registry**_
+_**Furnishing security for costs by depositing monies in the Registry for matters in the Appellate Division and the Court of Appeal**_
 
-(6) Where a party wishes to furnish security for costs for an appeal or an application filed in the Supreme Court by depositing monies in the Registry, he or she must deposit the monies in one of the following manners:
+(6) Where a party wishes to furnish security for costs for an appeal or an application filed in the Appellate Division or the Court of Appeal by depositing monies in the Registry, he or she should refer to the payment information on the Singapore Courts website at [https://www.judiciary.gov.sg/services/e-platforms/online-payment-portal](https://www.judiciary.gov.sg/services/e-platforms/online-payment-portal). The party must provide proof of such deposit when filing the appeal or application.
 
-> (a) By electronic payment: The party is to send his or her case details by email to the Finance Division of the Judiciary at [FPD\_Revenue@judiciary.gov.sg](mailto:FPD_Revenue@judiciary.gov.sg). The party will be provided with a QR code or the bank account details for electronic payment to be made. Upon receipt of monies, a receipt will be emailed to the party by the Finance Division of the Judiciary.
->
-> (b) By making payment at the Supreme Court: The party will be required to complete a requisite form when he or she attends at the Supreme Court. The accepted payment modes are Cash, Cashier’s Order (made payable to “Registrar Supreme Court/AG”), NETS and credit card. Upon payment at the counter, a receipt will be issued to the party.
-
-The party must provide proof of such deposit when filing the appeal or application.
-
-(7) Where security for costs is to be paid out to any party pursuant to the Rules of Court 2021 or an order or direction of the Court, the party entitled to payment of the security may write to the Registry to request payment out. Once the request for payment out is approved by the Registry, the party entitled to the payment must send a copy of the Registry’s approval to the Finance Division of the Judiciary at [FPD\_Revenue@judiciary.gov.sg](mailto:FPD_Revenue@judiciary.gov.sg). The Finance Division of the Judiciary will provide instructions on the documents to be furnished to process the release of the monies.
+(7) Where security for costs is to be paid out to any party pursuant to the Rules of Court 2021 or an order or direction of the Court, the party entitled to payment of the security may write to the Registry to request payment out.&#x20;
 
 _**Request for information on balance of monies paid into Court or deposited in the Registry**_
 

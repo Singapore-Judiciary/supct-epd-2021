@@ -36,7 +36,7 @@ The declaration will be generated for the applicant’s signature at the hearing
 
 (5) Upon the filing of the Request for hearing and all requisite documents for admission in accordance with the applicable timelines, the admission application will be fixed for hearing by the Registry (“Original Call Date”).
 
-(6) An applicant who is not able to comply with the applicable timelines may apply for an abridgment of time (“abridgement application”). An abridgment application must be made by way of a summons, supported by an affidavit, and filed through the Electronic Filing Service at least 14 days before the applicant’s intended admission hearing date (“Intended Call Date”). The abridgement application is to be served on the Attorney-General, the Law Society of Singapore and the Singapore Institute of Legal Education, any of whom may object to the abridgement application.
+(6) An applicant who is not able to comply with the applicable timelines may apply for an abridgment of time (“abridgment application”). An abridgment application must be made by way of a summons, supported by an affidavit, and filed through the Electronic Filing Service at least 14 days before the applicant’s intended admission hearing date (“Intended Call Date”). The abridgment application is to be served on the same day using the immediate service function available on the Electronic Filing Service on the Attorney-General, the Law Society of Singapore and the Singapore Institute of Legal Education, any of whom may object to the abridgment application.
 
 (7) The abridgment application will be fixed for hearing as follows:
 
@@ -62,7 +62,7 @@ The declaration will be generated for the applicant’s signature at the hearing
 
 (5) Upon the filing of the Request for hearing and all requisite documents for admission in accordance with the applicable timelines, the admission application will be fixed for hearing by the Registry (“Original Admission Date”).
 
-(6) An applicant who is not able to comply with the applicable timelines may file an abridgement application. An abridgment application must be made by way of a summons, supported by an affidavit, and filed through the Electronic Filing Service at least 14 days before the applicant’s intended admission hearing date (“Intended Admission Date”). The abridgement application is to be served on the Attorney-General, the Law Society of Singapore and the Singapore Institute of Legal Education, any of whom may object to the abridgement application.
+(6) An applicant who is not able to comply with the applicable timelines may file an abridgment application. An abridgment application must be made by way of a summons, supported by an affidavit, and filed through the Electronic Filing Service at least 14 days before the applicant’s intended admission hearing date (“Intended Admission Date”). The abridgment application is to be served on the same day using the immediate service function available on the Electronic Filing Service on the Attorney-General, the Law Society of Singapore and the Singapore Institute of Legal Education, any of whom may object to the abridgment application.
 
 (7) The abridgment application will be fixed for hearing as follows:
 
