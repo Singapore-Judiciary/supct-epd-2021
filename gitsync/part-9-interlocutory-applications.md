@@ -199,7 +199,7 @@ Where a claim in the General Division which may have initially exceeded $250,000
 
 ### 72. Injunctions prohibiting the disposal of assets and search orders <a href="#id-72-injunctions-prohibiting-the-disposal-of-assets-and-search-orders" id="id-72-injunctions-prohibiting-the-disposal-of-assets-and-search-orders"></a>
 
-(1) Applications for injunctions prohibiting the disposal of assets and for search orders, whether made with or without notice, will be heard by a Judge. To avoid doubt, all other applications without notice for interim injunctions may be heard by a Registrar.
+(1) Unless otherwise directed, contested applications for injunctions prohibiting the disposal of assets and applications for search orders, whether made with or without notice, will be heard by a Judge and all other applications for interim injunctions may be heard by a Registrar.
 
 (2) The language and layout of Forms 24, 25 and 26 of Appendix A of these Practice Directions are intended to make it easier for persons served with these orders to understand what they mean. These forms of orders should be used except to the extent that the Judge hearing a particular application considers there is a good reason for adopting a different form. Any departure from the terms of the prescribed forms should be justified by the applicant in his or her supporting affidavit(s).
 

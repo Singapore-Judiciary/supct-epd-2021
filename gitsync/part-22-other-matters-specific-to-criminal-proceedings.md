@@ -11,6 +11,8 @@
 > 168\. Further written submissions for criminal matters before the Court of Appeal
 >
 > 168A. Submissions by leading and junior assisting counsel in appeals under this Part
+>
+> 168B. Discharging, changing or ceasing to act as counsel
 
 ### 165. Judge Case Conference Checklist for criminal trials in the General Division <a href="#id-165-judge-case-conference-checklist-for-criminal-trials-in-the-general-division" id="id-165-judge-case-conference-checklist-for-criminal-trials-in-the-general-division"></a>
 
@@ -106,3 +108,33 @@ Where the Court of Appeal orders further written submissions to be filed for any
 > (b)> &#x20;counsel must not repeat, clarify or expand on any submissions that have been made by another counsel for the same party.
 
 (4)&#x20;Nothing in this paragraph detracts from the responsibility of lead counsel to ensure that all counsel making submissions are adequately supervised and able to handle the tasks assigned to them.
+
+### 168B. Discharging, changing or ceasing to act as counsel <a href="#id-168-further-written-submissions-for-criminal-matters-before-the-court-of-appeal" id="id-168-further-written-submissions-for-criminal-matters-before-the-court-of-appeal"></a>
+
+(1) This paragraph applies to:
+
+> (a) all pending criminal matters before the Court of Appeal; and
+>
+>> (b) all pending criminal matters before the General Division heard in the exercise of the General Division’s appellate or revisionary criminal jurisdiction.
+
+(2) For all pending matters to which this paragraph applies, permission of the Court of Appeal or the General Division (as the case may be) must be obtained if:
+
+> (a) a party wishes to change counsel by discharging counsel and appointing new counsel;
+>
+>> (b) a party wishes to discharge counsel and act in person; or
+>
+>> (c) counsel wishes to cease to act for a party.
+
+(3) A request for permission under sub-paragraph (2) must be made in writing and filed using the Electronic Filing Service.
+
+(4) A request for permission under sub-paragraph (2) must contain the following information:
+
+> (a) the reasons for the change, discharge or withdrawal of counsel (as the case may be), save that the request need not disclose information which is privileged;
+>
+> (b) for cases falling under sub-paragraph 2(c), whether the party has any objections to the withdrawal of counsel;
+>
+> (c) where a hearing date has been fixed or timelines have been given for the filing of any court documents, whether the party and any new counsel are prepared to proceed with the scheduled hearing and comply with the timelines for the filing of any court documents; and
+>
+> (d) if the party or any new counsel wishes to make a request for the refixing of the hearing or for an extension of the timelines for the filing of any court documents, the reasons for the request and the opposing party’s position on the request.
+
+(5) If permission is required under sub-paragraph (2), any document or notice filed by a party will not operate as an effective discharge, change or withdrawal of counsel (as the case may be) until such permission is obtained.

@@ -4,6 +4,8 @@
 >
 > 160\. Applications to set aside statutory demands made under the Bankruptcy Rules or the Insolvency, Restructuring and Dissolution (Personal Insolvency) Rules 2020
 >
+> 160A. Applications for bankruptcy orders filed by creditors
+>
 > 161\. Judicial Management and winding up applications under the Companies Act (Cap. 50, 2006 Rev. Ed.) or Insolvency, Restructuring and Dissolution Act 2018
 >
 > 162\. Documents for use in open court trials of contested winding-up applications
@@ -48,6 +50,34 @@ The following arrangements will apply to hearings of bankruptcy matters:
 > (b) disputes the debt (not being a debt subject to a judgment or order),
 
 the Court will normally set aside the statutory demand if, in its opinion, on the evidence there is a genuine triable issue.
+
+### 160A. Applications for bankruptcy orders filed by creditors <a href="#id-160-applications-to-set-aside-statutory-demands-made-under-the-bankruptcy-rules-or-the-insolvency-re" id="id-160-applications-to-set-aside-statutory-demands-made-under-the-bankruptcy-rules-or-the-insolvency-re"></a>
+
+(1) This paragraph applies to every application for a bankruptcy order made by a creditor who is represented by counsel. The creditor’s counsel is to ensure that the applicable requirements in this paragraph are complied with before each hearing of the application (referred to in this paragraph as the “next hearing”).
+
+(2) If the creditor’s position is that a bankruptcy order should be made against the debtor at the next hearing, the creditor’s counsel must:
+
+> (a) ensure that the papers filed in support of the application are in order; and
+>
+>> (b) file a checklist (called the “Creditor’s Bankruptcy Application Checklist”) in Form B48 of Appendix B of these Practice Directions at least 3 days before the date of the next hearing. The Creditor’s Bankruptcy Application Checklist is to be filed using the Electronic Filing Service as an “Other Hearing Related Request”.
+
+(3) Notwithstanding sub-paragraph (2) above, where a Creditor’s Bankruptcy Application Checklist has already been filed for a previous hearing of the application, a fresh Creditor’s Bankruptcy Application Checklist need not be filed if there is no change to the information prior to the next hearing.
+
+_**Requests for adjournments**_
+
+(4) If the creditor intends to seek an adjournment of the next hearing, and has obtained the debtor’s consent to the adjournment, the creditor’s counsel must make a Request through the Electronic Filing Service for an adjournment of the hearing. The creditor’s counsel must make this Request as soon as possible, and in any event at least 3 days before the date of the next hearing. The Request must set out the reasons for the requested adjournment and attach evidence of the debtor’s consent to the requested adjournment. The Court will still evaluate the merits of the Request before making its decision.
+
+(5) If the creditor intends to seek an adjournment at the next hearing, and has not obtained the debtor’s consent to the adjournment, the creditor’s counsel must inform the Court as soon as possible – and, in any event, at least 3 days before the date of the next hearing – of the intention to make such a request at the next hearing.
+
+_**Requests for permission to withdraw**_
+
+(6) If the creditor intends to seek permission to withdraw the application at the next hearing, and has obtained the debtor’s consent to the withdrawal (and to any costs order sought by the creditor), the creditor’s counsel must write to the Court as soon as possible – and, in any event, at least 3 days before the date of the next hearing – to seek the Court’s permission to withdraw the application. The request should briefly explain why the creditor is seeking to withdraw the application and must attach evidence of the debtor’s consent to the withdrawal (and to any costs order sought by the creditor).
+
+(7) If the creditor intends to seek permission to withdraw the application at the next hearing, and has not obtained the debtor’s consent to the withdrawal (or to any costs order sought by the creditor), the creditor’s counsel must inform the Court as soon as possible – and, in any event, at least 3 days before the date of the next hearing – of the intention to make such a request at the next hearing.
+
+_**Effect of non-compliance**_
+
+(8) The Court may consider any non-compliance with this paragraph, and the reasons for the non-compliance, in making any order or giving any direction.
 
 ### 161. Judicial Management and winding up applications under the Companies Act (Cap. 50, 2006 Rev. Ed.) or Insolvency, Restructuring and Dissolution Act 2018 <a href="#id-161-judicial-management-and-winding-up-applications-under-the-companies-act-cap-50-2006-rev-ed-or-in" id="id-161-judicial-management-and-winding-up-applications-under-the-companies-act-cap-50-2006-rev-ed-or-in"></a>
 
