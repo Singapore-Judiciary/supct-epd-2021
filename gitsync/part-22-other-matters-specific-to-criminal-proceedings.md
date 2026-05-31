@@ -83,9 +83,18 @@
 
 (7) Subject to any written law prescribing timelines for the filing of written submissions in criminal matters to which this paragraph applies, and any Court directions:
 
-> (a) For matters heard by the Court of Appeal: the written submissions, together with any bundle of authorities, must be filed by 4.00 p.m., on the Monday 3 weeks before the start of the sitting period of the Court of Appeal within which the appeal or matter is scheduled for hearing before the Court of Appeal, regardless of the actual day (within that sitting period) on which that appeal or matter is scheduled for hearing before the Court of Appeal. (For example, if the sitting period of the Court of Appeal starts on Monday, 27 June 2022 and ends on Friday, 8 July 2022, all written submissions for appeals or matters listed before the Court of Appeal in that sitting must be filed by 4.00 p.m. on Monday, 6 June 2022.)
+> (a) For matters heard by the Court of Appeal:&#x20;
 >
-> (b) For matters heard by the General Division: the written submissions, together with any bundle of authorities, must be filed by 4.00 p.m., at least 10 days before the day of the hearing.
+> > (i) The appellant’s (or applicant’s) written submissions, together with any bundle of authorities, must be filed by 4.00 p.m., on the Monday 5 weeks before the start of the sitting period of the Court of Appeal within which the appeal or matter is scheduled for hearing, regardless of the actual day (within that sitting period) on which the appeal or matter is scheduled for hearing. (For example, if the sitting period of the Court of Appeal starts on Monday, 12 October 2026 and ends on Friday, 23 October 2026, the appellant’s (or applicant’s) written submissions for an appeal or matter fixed in that sitting period must be filed by 4.00 p.m., on Monday, 7 September 2026.)
+> >
+> > (ii) The respondent’s written submissions, together with any bundle of authorities, must be filed by 4.00 p.m., on the Monday 3 weeks before the start of the sitting period of the Court of Appeal within which the appeal or matter is scheduled for hearing, regardless of the actual day (within that sitting period) on which the appeal or matter is scheduled for hearing. (For example, if the sitting period of the Court of Appeal starts on Monday, 12 October 2026 and ends on Friday, 23 October 2026, the respondent’s written submissions for an appeal or matter fixed in that sitting period must be filed by 4.00 p.m., on Monday, 21 September 2026.)
+>
+> (b) For matters heard by the General Division:&#x20;
+>
+> > (i) The appellant’s (or applicant’s) written submissions, together with any bundle of authorities, must be filed by 4.00 p.m., at least 21 days before the day of the hearing.> > \
+> > (ii) The respondent’s written submissions, together with any bundle of authorities, must be filed by 4.00 p.m., at least 10 days before the day of the hearing.
+
+(7A) Sub-paragraph (7) does not affect any directions issued before 1 June 2026, fixing or informing parties of the timelines for the filing of written submissions in any criminal matter to which this paragraph applies, unless otherwise directed by the Court.
 
 (8) Written submissions which do not comply with the requirements at sub-paragraphs (6) and (7) may be rejected.
 
