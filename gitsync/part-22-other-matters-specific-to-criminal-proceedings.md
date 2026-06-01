@@ -91,7 +91,9 @@
 >
 > (b) For matters heard by the General Division:&#x20;
 >
-> > (i) The appellant’s (or applicant’s) written submissions, together with any bundle of authorities, must be filed by 4.00 p.m., at least 21 days before the day of the hearing.> > \
+> > (i) The appellant’s (or applicant’s) written submissions, together with any bundle of authorities, must be filed by 4.00 p.m., at least 21 days before the day of the hearing.
+> >
+> >> > \
 > > (ii) The respondent’s written submissions, together with any bundle of authorities, must be filed by 4.00 p.m., at least 10 days before the day of the hearing.
 
 (7A) Sub-paragraph (7) does not affect any directions issued before 1 June 2026, fixing or informing parties of the timelines for the filing of written submissions in any criminal matter to which this paragraph applies, unless otherwise directed by the Court.
